@@ -1,4 +1,4 @@
-# jenkinsNotes
+# JenkinsNotes  ---> Donwload the pdf file to get full access with explanatory images.
 This is a cheatsheet I have compiled for jenkins CI/CD, feel free to use it! 
 
 JENKINS
